@@ -41,7 +41,9 @@ public class DemoConfig extends JFinalConfig {
     public void onStart() {
         super.onStart();
         // new Phpxcx().getOldGoods();
-		  new Phpxcx().insertOldGoods();
+		//  new Phpxcx().insertOldGoods();
+		//new Phpxcx().insertOldGoods2();
+		new Phpxcx().readExcel();
     }
 
     /**

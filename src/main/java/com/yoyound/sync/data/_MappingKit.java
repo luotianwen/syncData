@@ -1,6 +1,5 @@
 package com.yoyound.sync.data;
 
-import com.demo.common.test.*;
 import com.jfinal.plugin.activerecord.ActiveRecordPlugin;
 import com.yoyound.sync.data.test.*;
 
